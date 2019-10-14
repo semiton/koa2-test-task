@@ -1,0 +1,13 @@
+{
+  "name": "koa2-test-task",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.8.2",
+    "koa2-router": "^1.2.3",
+    "koa-bodyparser": "^4.2.1",
+    "mysql2": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node ./bin/app"
+  }
+}
